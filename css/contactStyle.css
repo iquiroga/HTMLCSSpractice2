@@ -1,0 +1,57 @@
+body{
+    font-family: Open Sans;
+}
+
+#header{
+    background-color: rgba(255, 255, 255, 0.5);
+    font-family: Open Sans;
+    font-size: 18px;
+    margin-top: 50px;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    text-align: end;
+    vertical-align: middle;
+}
+
+a{
+    color: #333333;
+    text-decoration: none;
+}
+
+#icons{
+    text-align: right;
+}
+
+#icons img{    
+    
+    width: 15px;
+}
+
+h1{ 
+    font-family: 'Raleway', sans-serif;
+    font-size: 80px;
+    margin: 0px;   
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-size:25px;
+    margin: 0px;
+    padding-top: 1.5em;    
+}
+
+h3{
+    color: #008772;
+    font-family: 'Work Sans', sans-serif;
+    font-size:22px;
+    margin-bottom: 1.5em;
+}
+
+#paragraph{
+    margin-bottom: 50px;
+}
+
+p{
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+}
